@@ -1,0 +1,2 @@
+# pagerepo
+Webページ用リポジトリ
